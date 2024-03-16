@@ -70,3 +70,32 @@ body{
     text-align: center;
     font-weight: bolder;
 }
+
+.about{
+    margin-top: 2%;
+    padding: 1%;
+    color: white;
+    text-align: center;
+    border: 3px solid white;
+    margin-left: 30%;
+    margin-right: 30%;
+
+}
+
+.contact{
+    margin-top: 10%;
+}
+.contact ul{
+    margin-top: 30%;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+.contact ul li {
+    margin-right: 10px;
+}
+.contact ul li a {
+    color: #fff;
+    text-decoration: none;
+}
